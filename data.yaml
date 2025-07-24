@@ -1,0 +1,7 @@
+path: ./PKLot_cleaned
+train: train/images
+val: valid/images
+nc: 2
+names:
+- empty
+- occupied
